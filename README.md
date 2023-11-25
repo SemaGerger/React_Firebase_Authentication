@@ -1,5 +1,2 @@
 
-# npx create-react-app fireaut
-# cd fireaut
-# npm install firebase react-firebase-hooks
-# npm install react-router-dom
+# React Firebase Authentication
